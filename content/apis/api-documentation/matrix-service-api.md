@@ -10,7 +10,7 @@ The [Matrix Service](https://github.com/HumanCellAtlas/matrix-service) (MS) prov
 [Human Cell Atlas](/) [Data Coordination
 Platform](https://www.humancellatlas.org/data-sharing) (DCP). 
  
-The service exposes a [REST API](https://matrix.staging.data.humancellatlas.org) for querying and retrieving
+The service exposes a [REST API](https://matrix.data.humancellatlas.org) for querying and retrieving
 expression matrix results.
 
 ## File formats
